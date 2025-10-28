@@ -18,7 +18,6 @@ This reflective journal documents the development journey of NuVision News, a co
 
 This project was developed collaboratively by three team members, with responsibilities distributed equally across all areas. Each team member contributed approximately 33% to every aspect of the project, ensuring balanced workload and comprehensive learning for all.
 
-### Technical Implementation (Team Effort)
 
 ### Technical Implementation (Team Effort)
 
@@ -48,7 +47,6 @@ This project was developed collaboratively by three team members, with responsib
   - Creating dynamic imports to prevent bundle bloat
   - Designing modular, maintainable code architecture
 
-### Documentation (Team Effort)
 
 ### Documentation (Team Effort)
 
