@@ -562,7 +562,7 @@ We're proud of what we've built as a team and excited to leverage these skills i
 **Total Team Investment:** 240+ hours (80 hours per team member)  
 **Lines of Code Written:** ~9,000  
 **Documentation Pages:** ~3,500 lines  
-**Commits:** 100+  
+**Commits:** 30+  
 **Features Implemented:** 20+  
 **Models Integrated:** 6  
 
