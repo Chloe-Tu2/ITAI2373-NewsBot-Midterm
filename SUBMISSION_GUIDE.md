@@ -275,8 +275,7 @@ FP_VideoPresentation_[SubmitterName]_TeamNuVision_ITAI2373.mp4
 - ❌ Update REFLECTIVE_JOURNAL.md with Yoana and Chloe's contributions
 - ❌ Create presentation (PowerPoint or Video)
 - ❌ Convert markdown files to PDFs with proper naming
-- ❌ Decide who submits team deliverables
-- ❌ Upload everything to Canvas
+- ❌ Upload all team deliverables everything to Canvas
 
 ---
 
