@@ -14,7 +14,7 @@
 
 This folder contains the **Midterm Project** deliverable for ITAI 2373. The project implements a complete NLP pipeline for news article analysis using Python and Jupyter notebooks.
 
-**What's Included
+**What's Included**
 
 1. **Jupyter Notebook:** `notebooks/01_Data_Processing_and_Analysis.ipynb`
    - Complete, runnable notebook with all analyses
